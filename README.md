@@ -10,10 +10,10 @@ O curso ira te oferecer uma visão sistemática abrangente, uma ótima introduç
 
 > Alguns projetos podem ser simples de mais caso você já tenha certa experiência em programação, fique a vontade para pular algum projeto quando achar necessário.
 
-<br>
+<hr></hr>
 
 ### MÓDULOS GRATUITOS
-MÓDULO 0 - INTRODUCTION FOR HELLO WORLD<br>
+<a href="#hello-world">MÓDULO 0 - INTRODUÇÃO AO HELLO WORLD<br></a>
 -	Introdução à história da Robótica e da Inteligência Artificial<br>
 -	Lógica de programação e introdução a programação<br>
 -	Aspectos econômicos e sócias da engenharia<br><br>
@@ -44,5 +44,18 @@ MÓDULO Y - ROBOTS:<br>
 -	ROS (Robot Operating System)<br>
 -	Projeto de desenvolvimento físico<br><br>
 
-
 > *other modules under development*
+
+<hr></hr>
+
+<h2 dir="auto"><a id="user-content-hello-world" class="anchor" aria-hidden="true" href="#ai-approaches"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>MÓDULO 0 - INTRODUCTION FOR HELLO WORLD</h2>
+
+#### A INTELIGENCIA ARTIFICIAL TRABALHA COM ALGUMAS CATEGÓRIAS QUE PODE SER SEPARADA DESSA SEGUINTE FORMA
+
+Estatística é apenas sobre os números e quantificar os dados. Existem muitas ferramentas para encontrar propriedades relevantes dos dados, mas isso é muito próximo da matemática pura.
+
+Mineração de dados é sobre o uso de estatísticas, bem como outros métodos de programação para encontrar padrões ocultos nos dados para que você possa explicar algum fenômeno. Data Mining constrói intuição sobre o que realmente está acontecendo em alguns dados e ainda é um pouco mais voltado para a matemática do que para a programação, mas usa ambos.
+
+O aprendizado de máquina usa técnicas de mineração de dados e outros algoritmos de aprendizado para criar modelos do que está acontecendo por trás de alguns dados, para que possam prever resultados futuros. A matemática é a base para muitos dos algoritmos, mas isso é mais voltado para a programação.
+
+A Inteligência Artificial utiliza modelos construídos por Aprendizado de Máquina e outras formas de raciocinar sobre o mundo e dar origem a comportamentos inteligentes, seja jogando ou dirigindo um robô/carro. A Inteligência Artificial tem algum objetivo a alcançar ao prever como as ações afetarão o modelo do mundo e escolhe as ações que melhor atingirão esse objetivo. Muito baseado em programação.
