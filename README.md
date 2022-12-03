@@ -1,4 +1,4 @@
-# Este curso é uma amostra grátis do curso completo de robótica e inteligência artificial.
+## Este curso é uma amostra grátis do curso completo de robótica e inteligência artificial.
 
 
 Esse repositório foi criado pensado em ir do nível mais básico ao nível avançado em Robótica/IA realizando pequenos projetos. Irei trilhar seu caminho igual a um roadmap, só que a diferença é que você vai desenvolver um pequeno projeto todo dia.
@@ -10,15 +10,23 @@ O curso ira te oferecer uma visão sistemática abrangente, uma ótima introduç
 
 > Alguns projetos podem ser simples de mais caso você já tenha certa experiência em programação, fique a vontade para pular algum projeto quando achar necessário.
 
+<br>
 
-<br>Podemos dividir esse curso gratuito dessa forma:<br>
-MÓDULO 0 - Intrudução:<br>
+### MÓDULOS GRATUITOS
+MÓDULO 0 - INTRODUCTION FOR HELLO WORLD<br>
 -	Introdução à história da Robótica e da Inteligência Artificial<br>
 -	Lógica de programação e introdução a programação<br>
 -	Aspectos econômicos e sócias da engenharia<br><br>
 
+MÓDULO 1 - PYTHON PROGRAMMING
+- **1.1** How projects I have to develop?
+  - **1.1.1** Joy with librarys
+ 
+ > *other modules under development*
+
+### MÓDULOS DO CURSO COMPLETO
 O curso completo contempla todos esses outros assuntos:<br>
-MÓDULO 1 - RoadAI:<br>
+MÓDULO X - RoadAI:<br>
 -	Fundamentos da programação em Python e suas bibliotecas<br>
 -	Ferramentas de desenvolvimento, Git e GitHub<br>
 -	Introdução a Machine Learning e Deep Learning<br>
@@ -27,7 +35,7 @@ MÓDULO 1 - RoadAI:<br>
 -	Código limpo e Boas práticas da programação<br>
 -	Projeto de desenvolvimento digital<br><br>
 
-MÓDULO 2 - ROBOTS:<br>
+MÓDULO Y - ROBOTS:<br>
 -	Introdução a Informática, Eletrônica e Elétrica<br>
 -	Introdução a Mecânica<br>
 -	Modelagem 3D e impressão<br>
@@ -35,5 +43,6 @@ MÓDULO 2 - ROBOTS:<br>
 -	Robótica Móvel aplicada ao ambiente<br>
 -	ROS (Robot Operating System)<br>
 -	Projeto de desenvolvimento físico<br><br>
+
 
 > *other modules under development*
