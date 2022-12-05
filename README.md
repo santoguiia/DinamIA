@@ -32,12 +32,12 @@ __MÓDULO 3 - GITHUB__
 - **3.2** Criação de repositório no GitHub
   - **3.2.1** Configurando Repositório
   - **3.2.2** Utilizando ferramenta GitHub Desktop
-- **3.3**	Ferramentas de desenvolvimento, Git e GitHub<br>
+- **3.3**	Ferramentas de desenvolvimento, Git e GitHub<br><br>
   
 
 ### MÓDULOS DO CURSO COMPLETO
-O curso completo contempla todos esses outros assuntos:<br>
-MÓDULO X - RoadAI:<br>
+
+**MÓDULO X - RoadAI:**<br>
 
 -	Introdução a Machine Learning e Deep Learning<br>
 -	Introdução ao TensorFlow<br>
@@ -45,7 +45,7 @@ MÓDULO X - RoadAI:<br>
 -	Código limpo e Boas práticas da programação<br>
 -	Projeto de desenvolvimento digital<br><br>
 
-MÓDULO Y - ROBOTS:<br>
+**MÓDULO Y - ROBOTS:**<br>
 -	Introdução a Informática, Eletrônica e Elétrica<br>
 -	Introdução a Mecânica<br>
 -	Modelagem 3D e impressão<br>
