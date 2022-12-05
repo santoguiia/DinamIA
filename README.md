@@ -37,7 +37,7 @@ __MÓDULO 3 - GITHUB__
 
 ### MÓDULOS DO CURSO COMPLETO
 
-**MÓDULO X - RoadAI:**<br>
+**MÓDULO X - ROAD-AI:**<br>
 
 -	Introdução a Machine Learning e Deep Learning<br>
 -	Introdução ao TensorFlow<br>
