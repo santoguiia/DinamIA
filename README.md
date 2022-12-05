@@ -14,10 +14,10 @@ Será demostrada diversas curiosidades no mundo da Robótica/AI, desde seu inici
 <hr></hr>
 
 ### MÓDULOS GRATUITOS
-[MÓDULO 1 - INTRODUÇÃO AO MUNDO DA TECNOLOGIA](https://github.com/ProlRayder/RoadAI-Robotics/blob/main/M%C3%93DULO%200/INTRODU%C3%87%C3%83O%20AO%20MUNDO%20DA%20TECNOLOGIA.md)
+[MÓDULO 1 - INTRODUÇÃO AO MUNDO DA TECNOLOGIA](MÓDULO%200/INTRODUÇÃO%20AO%20MUNDO%20DA%20TECNOLOGIA.md)
 
-- **1.1** [Introdução à história da Robótica e da Inteligência Artificial](https://github.com/ProlRayder/RoadAI-Robotics/blob/main/M%C3%93DULO%200/Introdu%C3%A7%C3%A3o%20%C3%A0%20hist%C3%B3ria%20da%20Rob%C3%B3tica%20e%20da%20Intelig%C3%AAncia%20Artificial.md)
--	**1.2** [Usos práticos e motivações](https://github.com/ProlRayder/RoadAI-Robotics/blob/main/M%C3%93DULO%200/Usos%20pr%C3%A1ticos%20e%20motiva%C3%A7%C3%B5es.md)
+- **1.1** [Introdução à história da Robótica e da Inteligência Artificial](MÓDULO%200/Introdução%20à%20história%20da%20Robótica%20e%20da%20Inteligência%20Artificial.md)
+-	**1.2** Usos práticos e motivações
 
 
 <br>__MÓDULO 2 - PROGRAMANDO COM PYTHON__
