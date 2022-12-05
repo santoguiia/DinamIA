@@ -1,7 +1,7 @@
-## Este curso é uma amostra grátis do curso completo de robótica e inteligência artificial.
+## **MATERIAL ESTÁ EM CONSTRUÇÃO, IREI ATUALIZANDO O REPOSITÓRIO AOS POUCOS**<br>
 <br>
 
- **MATERIAL ESTÁ EM CONSTRUÇÃO, IREI ATUALIZANDO O REPOSITÓRIO AOS POUCOS**<br>
+ 
 
 <br>
 
@@ -17,30 +17,30 @@ O curso ira te oferecer uma visão sistemática abrangente, uma ótima introduç
 <hr></hr>
 
 ### MÓDULOS GRATUITOS
-<a href="#hello-world">MÓDULO 0 - INTRODUÇÃO AO HELLO WORLD<br></a>
+__<a href="#hello-world">MÓDULO 0 - INTRODUÇÃO AO MUNDO DA TECNOLOGIA<br></a>__
 - <a href="#hello-world">Introdução à história da Robótica e da Inteligência Artificial<br></a>
 -	Lógica de programação e introdução a programação<br>
 -	Aspectos econômicos e sócias da engenharia<br><br>
 
-MÓDULO 1 - PROGRAMANDO COM PYTHON
+__MÓDULO 1 - PROGRAMANDO COM PYTHON__
 - **1.1** Baixando e instalando Python
   - **1.1.1** Configurando área de trabalho
 - **1.2** Códigos de motivação
+-	Fundamentos da programação em Python e suas bibliotecas<br>
 
-MÓDULO 2 - GITHUB
+__MÓDULO 2 - GITHUB__
 - **2.1** Conhecendo a plataforma
 - **2.2** Criação de repositório no GitHub
   - **2.2.1** Configurando Repositório
   - **2.2.2** Utilizando ferramenta GitHub Desktop
-- **2.3** Explorando funções Git
+- **2.3**	Ferramentas de desenvolvimento, Git e GitHub<br>
   
  > *other modules under development*
 
 ### MÓDULOS DO CURSO COMPLETO
 O curso completo contempla todos esses outros assuntos:<br>
 MÓDULO X - RoadAI:<br>
--	Fundamentos da programação em Python e suas bibliotecas<br>
--	Ferramentas de desenvolvimento, Git e GitHub<br>
+
 -	Introdução a Machine Learning e Deep Learning<br>
 -	Introdução ao TensorFlow<br>
 -	Introdução ao OpenCV<br>
@@ -56,11 +56,25 @@ MÓDULO Y - ROBOTS:<br>
 -	ROS (Robot Operating System)<br>
 -	Projeto de desenvolvimento físico<br><br>
 
+MÓDULO TINKERKAD
+
+MÓDULO SOLIDWORKS
+
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+
 > *other modules under development*
 
 <hr></hr>
 
 <h2 dir="auto"><a id="user-content-hello-world" class="anchor" aria-hidden="true" href="#ai-approaches"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>MÓDULO 0 - INTRODUCTION FOR HELLO WORLD</h2>
+
+#### Hello World !
+
+“Hello World!” é uma frase que foi imortalizada pelos criadores da linguagem de programação C, os americanos Brian Kernighan e Dennis Ritchie, no livro de 1978, entitulado “The C Programming Language”
+
+A programação nos computadores não tem uma data correta de início. Tudo começou na década de 30, com os primeiros computadores elétricos. Em 1948, Konrad Zuse publicou sua criação, a linguagem de programação Plankalkül. Na época, ainda não tinha muita utilidade, então foi esquecida. Antes da programação passar para o computador, eram usados cartões de papelão que eram perfurados, criando códigos.
+
+Foi na década de 50 que as primeiras linguagens modernas surgiram. FORTRAN (1955), LISP, a "List Processor” e COBOL, a COmmon Business Oriented Language.  Tambem apareceu na mesma epoca a ALGOL 60.
 
 #### A INTELIGENCIA ARTIFICIAL TRABALHA COM ALGUMAS CATEGÓRIAS QUE PODE SER SEPARADA DESSA SEGUINTE FORMA
 
