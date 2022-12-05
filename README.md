@@ -60,7 +60,7 @@ MÓDULO TINKERKAD
 
 MÓDULO SOLIDWORKS
 
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+[Hello](docs/MÓDULO 0/INTRODUÇÃO AO MUNDO DA TECNOLOGIA.md)
 
 > *other modules under development*
 
