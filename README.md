@@ -17,25 +17,24 @@ O curso ira te oferecer uma visão sistemática abrangente, uma ótima introduç
 <hr></hr>
 
 ### MÓDULOS GRATUITOS
-[MÓDULO 0 - INTRODUÇÃO AO MUNDO DA TECNOLOGIA](https://github.com/ProlRayder/RoadAI-Robotics/blob/main/M%C3%93DULO%200/INTRODU%C3%87%C3%83O%20AO%20MUNDO%20DA%20TECNOLOGIA)
+[MÓDULO 1 - INTRODUÇÃO AO MUNDO DA TECNOLOGIA](https://github.com/ProlRayder/RoadAI-Robotics/blob/main/M%C3%93DULO%200/INTRODU%C3%87%C3%83O%20AO%20MUNDO%20DA%20TECNOLOGIA.md)
 
-
-- <a href="#hello-world">Introdução à história da Robótica e da Inteligência Artificial<br></a>
+- [Introdução à história da Robótica e da Inteligência Artificial](https://github.com/ProlRayder/RoadAI-Robotics/blob/main/M%C3%93DULO%200/Introdu%C3%A7%C3%A3o%20%C3%A0%20hist%C3%B3ria%20da%20Rob%C3%B3tica%20e%20da%20Intelig%C3%AAncia%20Artificial.md)
 -	Lógica de programação e introdução a programação<br>
 -	Aspectos econômicos e sócias da engenharia<br><br>
 
-__MÓDULO 1 - PROGRAMANDO COM PYTHON__
-- **1.1** Baixando e instalando Python
-  - **1.1.1** Configurando área de trabalho
-- **1.2** Códigos de motivação
+__MÓDULO 2 - PROGRAMANDO COM PYTHON__
+- **2.1** Baixando e instalando Python
+  - **2.1.1** Configurando área de trabalho
+- **2.2** Códigos de motivação
 -	Fundamentos da programação em Python e suas bibliotecas<br>
 
-__MÓDULO 2 - GITHUB__
-- **2.1** Conhecendo a plataforma
-- **2.2** Criação de repositório no GitHub
-  - **2.2.1** Configurando Repositório
-  - **2.2.2** Utilizando ferramenta GitHub Desktop
-- **2.3**	Ferramentas de desenvolvimento, Git e GitHub<br>
+__MÓDULO 3 - GITHUB__
+- **3.1** Conhecendo a plataforma
+- **3.2** Criação de repositório no GitHub
+  - **3.2.1** Configurando Repositório
+  - **3.2.2** Utilizando ferramenta GitHub Desktop
+- **3.3**	Ferramentas de desenvolvimento, Git e GitHub<br>
   
  > *other modules under development*
 
