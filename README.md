@@ -11,7 +11,7 @@ Será demostrada diversas curiosidades no mundo da Robótica/AI, desde seu inici
 
 > Alguns projetos podem ser simples de mais caso você já tenha certa experiência em programação, fique a vontade para pular algum projeto quando achar necessário.
 
-<br><hr></hr><br>
+<hr></hr>
 
 ### MÓDULOS GRATUITOS
 [MÓDULO 1 - INTRODUÇÃO AO MUNDO DA TECNOLOGIA](https://github.com/ProlRayder/RoadAI-Robotics/blob/main/M%C3%93DULO%200/INTRODU%C3%87%C3%83O%20AO%20MUNDO%20DA%20TECNOLOGIA.md)
