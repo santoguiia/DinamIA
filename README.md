@@ -17,7 +17,9 @@ O curso ira te oferecer uma visão sistemática abrangente, uma ótima introduç
 <hr></hr>
 
 ### MÓDULOS GRATUITOS
-__<a href="#hello-world">MÓDULO 0 - INTRODUÇÃO AO MUNDO DA TECNOLOGIA<br></a>__
+[MÓDULO 0 - INTRODUÇÃO AO MUNDO DA TECNOLOGIA](https://github.com/ProlRayder/RoadAI-Robotics/blob/main/M%C3%93DULO%200/INTRODU%C3%87%C3%83O%20AO%20MUNDO%20DA%20TECNOLOGIA)
+
+
 - <a href="#hello-world">Introdução à história da Robótica e da Inteligência Artificial<br></a>
 -	Lógica de programação e introdução a programação<br>
 -	Aspectos econômicos e sócias da engenharia<br><br>
@@ -60,7 +62,7 @@ MÓDULO TINKERKAD
 
 MÓDULO SOLIDWORKS
 
-[Hello](docs/MÓDULO 0/INTRODUÇÃO AO MUNDO DA TECNOLOGIA.md)
+[Hello](https://github.com/ProlRayder/RoadAI-Robotics/blob/main/M%C3%93DULO%200/INTRODU%C3%87%C3%83O%20AO%20MUNDO%20DA%20TECNOLOGIA)
 
 > *other modules under development*
 
