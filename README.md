@@ -1,16 +1,13 @@
-## **MATERIAL ESTÁ EM CONSTRUÇÃO, IREI ATUALIZANDO O REPOSITÓRIO AOS POUCOS**<br>
-<br>
+![1653747650939](https://user-images.githubusercontent.com/44483048/205630313-4e640607-398c-4664-8882-551c4299c002.jpeg)
 
- 
-
-<br>
+<hr></hr>
 
 Esse repositório foi criado pensado em ir do nível mais básico ao nível avançado em Robótica/IA realizando pequenos projetos. Irei trilhar seu caminho igual a um roadmap, só que a diferença é que você vai desenvolver um pequeno projeto todo dia.
 Será demostrada diversas curiosidades no mundo da Robótica/AI, desde seu inicio até o momento atual.  Vamos conhecer desde os fundamentos da programação e se apronfundar nos mecanismos da Inteligencia Artificial. No fim serão abordados assuntos polêmicos sobre robótica e AI para se pensar.
 
 > Este curso ira contemplar diversos assuntos que englobam a mecânica, elétrica, eletrônica, programação e a automação. Pelo motivo de que a Robótica e a Inteligência Artificial são ramos dessas engenharias. Todo o conteúdo gratuito será repassado o mais simples possível para o entendimento do aluno, os assuntos serão explorados de forma superficial, no entanto, suficientes para o desenvolvimento e construção dos projetos finais de cada módulo.<br>
 
-O curso ira te oferecer uma visão sistemática abrangente, uma ótima introdução ao mundo da Robótica e Inteligência Artificial, tecnologias empregadas no desenvolvimento da inteligência artificial e o amadurecimento no mundo da engenharia.<br>
+<br>O curso ira te oferecer uma visão sistemática abrangente, uma ótima introdução ao mundo da Robótica e Inteligência Artificial, tecnologias empregadas no desenvolvimento da inteligência artificial e o amadurecimento no mundo da engenharia.<br>
 
 > Alguns projetos podem ser simples de mais caso você já tenha certa experiência em programação, fique a vontade para pular algum projeto quando achar necessário.
 
