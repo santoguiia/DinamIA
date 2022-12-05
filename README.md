@@ -14,7 +14,7 @@ O curso ira te oferecer uma visão sistemática abrangente, uma ótima introduç
 
 > Alguns projetos podem ser simples de mais caso você já tenha certa experiência em programação, fique a vontade para pular algum projeto quando achar necessário.
 
-<hr></hr>
+<br><hr></hr><br>
 
 ### MÓDULOS GRATUITOS
 [MÓDULO 1 - INTRODUÇÃO AO MUNDO DA TECNOLOGIA](https://github.com/ProlRayder/RoadAI-Robotics/blob/main/M%C3%93DULO%200/INTRODU%C3%87%C3%83O%20AO%20MUNDO%20DA%20TECNOLOGIA.md)
@@ -23,7 +23,7 @@ O curso ira te oferecer uma visão sistemática abrangente, uma ótima introduç
 -	**1.2** [Usos práticos e motivações](https://github.com/ProlRayder/RoadAI-Robotics/blob/main/M%C3%93DULO%200/Usos%20pr%C3%A1ticos%20e%20motiva%C3%A7%C3%B5es.md)
 
 
-__MÓDULO 2 - PROGRAMANDO COM PYTHON__
+<br>__MÓDULO 2 - PROGRAMANDO COM PYTHON__
 - **2.1** Baixando e instalando Python
   - **2.1.1** Configurando área de trabalho
 - **2.2** Códigos de motivação
@@ -37,7 +37,6 @@ __MÓDULO 3 - GITHUB__
   - **3.2.2** Utilizando ferramenta GitHub Desktop
 - **3.3**	Ferramentas de desenvolvimento, Git e GitHub<br>
   
- > *other modules under development*
 
 ### MÓDULOS DO CURSO COMPLETO
 O curso completo contempla todos esses outros assuntos:<br>
@@ -58,5 +57,6 @@ MÓDULO Y - ROBOTS:<br>
 -	ROS (Robot Operating System)<br>
 -	Projeto de desenvolvimento físico<br><br>
 
+<hr></hr>
 
-> *other modules under development*
+> *modules under development*
