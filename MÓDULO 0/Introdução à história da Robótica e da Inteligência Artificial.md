@@ -1,5 +1,12 @@
 # Introdução à história da Robótica e da Inteligência Artificial</h2>
 
+## Introdução
+Neste curso iremos abordar todos os aspectos básicos da Visão Computacional e do Reconhecimento de Padrões. Podemos definir Visão Computacional como o conjunto de métodos e técnicas através dos quais sistemas computacionais podem ser capazes de interpretar imagens.
+
+A interpretação de uma imagem pode ser definida em termos computacionais como a transformação de um conjunto de dados digitais representando uma imagem (um sinal mono-, bi-, tri- ou tetradimensional) em uma estrutura de dados descrevendo a semântica deste conjunto de dados em um contexto qualquer.
+
+A Visão Computacional é uma disciplina que se encontra ainda nos seus primórdios, sendo a grande maioria de suas soluções e abordagens objeto de pesquisas. Esta pesquisa envolve toda uma gama de enfoques, desde aplicações bastante orientadas à solução de problemas práticos restritos, como o controle de qualidade em linhas de produção através de inspeção automática até tentativas de modelagem de processos cognitivos visuais como eles ocorrem nos animais superiores, numa tentativa de elaborar modelos genéricos de percepção visual.
+
 ## De onde os Robôs vieram
 
 **Qual a história do Robô que tanto conhecemos hoje em dia?**
