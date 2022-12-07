@@ -17,7 +17,7 @@ Será demostrada diversas curiosidades no mundo da Robótica/AI, desde seu inici
 * É necessário conhecimento de matemática do ensino médio ou conhecimento básico de estatística
 * Ter bom conhecimento em Python, caso não tenha uma boa base, acesse o curso:
 
-[PYjetando - Um curso em Python com ênfase no desenvolvimento de pequenos projetos diários](https://github.com/ProlRayder/Pyjetando)
+[PYjetando - Um curso em Python com ênfase no desenvolvimento de pequenos projetos](https://github.com/ProlRayder/Pyjetando)
 
 
 <hr></hr>
