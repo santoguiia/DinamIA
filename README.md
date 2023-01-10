@@ -63,6 +63,10 @@ __MÓDULO 3 - GITHUB__
 -	ROS (Robot Operating System)<br>
 -	Projeto de desenvolvimento físico<br><br>
 
+> *other modules under development*
+
 <hr></hr>
 
-> *modules under development*
+**Bibliografia:**<br>
+- [Inteligência Artificial por Peter Peter Norvig](https://www.amazon.com.br/Intelig%C3%AAncia-Artificial-Peter-Norvig/dp/8535237011)<br>
+...
