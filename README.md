@@ -26,14 +26,14 @@ Será demostrada diversas curiosidades no mundo da Robótica/AI, desde seu inici
 
 <hr></hr>
 
-### MÓDULO X - ROAD-AI:
+### MÓDULO X - ROAD-AI
 -	Introdução a Machine Learning e Deep Learning<br>
 -	Introdução ao TensorFlow<br>
 -	Introdução ao OpenCV<br>
 -	Código limpo e Boas práticas da programação<br>
 -	Projeto de desenvolvimento digital<br><br>
 
-### MÓDULO Y - ROBOTS:
+### MÓDULO Y - ROBOTS
 -	Introdução a Informática, Eletrônica e Elétrica<br>
 -	Introdução a Mecânica<br>
 -	Modelagem 3D e impressão<br>
