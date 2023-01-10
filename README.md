@@ -8,12 +8,15 @@
 ## Ementa
 O curso ira te oferecer uma visão sistemática abrangente, uma ótima introdução ao mundo da Robótica e Inteligência Artificial, tecnologias empregadas no desenvolvimento da inteligência artificial e o amadurecimento no mundo da engenharia.<br>
 
+<hr></hr>
 
 ## Objetivos
 Esse repositório foi criado pensado em ir do nível mais básico ao nível avançado em Robótica/IA realizando pequenos projetos. Irei trilhar seu caminho igual a um roadmap.
 Será demostrada diversas curiosidades no mundo da Robótica/AI, desde seu inicio até o momento atual.  Vamos conhecer as biblitecas de Machine Learning e se apronfundar nos mecanismos da Inteligencia Artificial. No fim serão abordados assuntos polêmicos sobre Robótica e AI para se pensar.
 
 > Este curso ira contemplar diversos assuntos que englobam a mecânica, elétrica, eletrônica, programação e a automação. Pelo motivo de que a Robótica e a Inteligência Artificial são ramos dessas engenharias. Todo o conteúdo gratuito será repassado o mais simples possível para o entendimento do aluno, os assuntos serão explorados de forma superficial, no entanto, suficientes para o desenvolvimento e construção dos projetos finais de cada módulo.<br>
+
+<hr></hr>
 
 ## Requisitos
 * É necessário conhecimento de matemática do ensino médio ou conhecimento básico de estatística
