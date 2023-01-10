@@ -63,8 +63,6 @@ __MÓDULO 3 - GITHUB__
 -	ROS (Robot Operating System)<br>
 -	Projeto de desenvolvimento físico<br><br>
 
-> *other modules under development*
-
 <hr></hr>
 
 **Bibliografia:**<br>
