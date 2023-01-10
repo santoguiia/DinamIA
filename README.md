@@ -19,42 +19,16 @@ Será demostrada diversas curiosidades no mundo da Robótica/AI, desde seu inici
 
 [PYjetando - Um curso em Python com ênfase no desenvolvimento de pequenos projetos](https://github.com/ProlRayder/Pyjetando)
 
-
 <hr></hr>
 
-### MÓDULOS GRATUITOS
-[MÓDULO 1 - INTRODUÇÃO AO MUNDO DA TECNOLOGIA](MÓDULO%200/INTRODUÇÃO%20AO%20MUNDO%20DA%20TECNOLOGIA.md)
-
-- **1.1** [Introdução à história da Robótica e da Inteligência Artificial](MÓDULO%200/Introdução%20à%20história%20da%20Robótica%20e%20da%20Inteligência%20Artificial.md)
--	**1.2** Usos práticos e motivações
-
-
-<br>__MÓDULO 2 - PROGRAMANDO COM PYTHON__
-- **2.1** Baixando e instalando Python
-  - **2.1.1** Configurando área de trabalho
-- **2.2** Códigos de motivação
--	Fundamentos da programação em Python e suas bibliotecas<br><br>
-
-
-__MÓDULO 3 - GITHUB__
-- **3.1** Conhecendo a plataforma
-- **3.2** Criação de repositório no GitHub
-  - **3.2.1** Configurando Repositório
-  - **3.2.2** Utilizando ferramenta GitHub Desktop
-- **3.3**	Ferramentas de desenvolvimento, Git e GitHub<br><br>
-  
-
-### MÓDULOS DO CURSO COMPLETO
-
-**MÓDULO X - ROAD-AI:**<br>
-
+### MÓDULO X - ROAD-AI:
 -	Introdução a Machine Learning e Deep Learning<br>
 -	Introdução ao TensorFlow<br>
 -	Introdução ao OpenCV<br>
 -	Código limpo e Boas práticas da programação<br>
 -	Projeto de desenvolvimento digital<br><br>
 
-**MÓDULO Y - ROBOTS:**<br>
+### MÓDULO Y - ROBOTS:
 -	Introdução a Informática, Eletrônica e Elétrica<br>
 -	Introdução a Mecânica<br>
 -	Modelagem 3D e impressão<br>
@@ -65,6 +39,6 @@ __MÓDULO 3 - GITHUB__
 
 <hr></hr>
 
-**Bibliografia:**<br>
+### Bibliografia:<br>
 - [Inteligência Artificial por Peter Peter Norvig](https://www.amazon.com.br/Intelig%C3%AAncia-Artificial-Peter-Norvig/dp/8535237011)<br>
 ...
