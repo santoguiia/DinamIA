@@ -6,15 +6,18 @@
 <hr></hr>
 
 ## Ementa
-Seja bem-vindo ao nosso curso sobre Inteligência Artificial! Neste curso, você terá a oportunidade de explorar as últimas tendências e técnicas em Visão Computacional, Machine Learning, Deep Learning e Robótica. Aprenderá a aplicar esses conceitos para solucionar problemas reais e desenvolver sistemas inteligentes. Vamos mergulhar em algoritmos avançados, redes neurais e técnicas de aprendizado de máquina, e ver como eles são usados ​​em robótica, visão por computador e outras áreas da inteligência artificial. Vamos começar essa jornada juntos para descobrir como a inteligência artificial está mudando o mundo ao nosso redor.<br>
+Seja bem-vindo ao nosso curso sobre Inteligência Artificial! Neste curso, você terá a oportunidade de explorar as últimas tendências e técnicas em Visão Computacional, Machine Learning, Deep Learning e Robótica. Aprenderá a aplicar esses conceitos para solucionar problemas reais e desenvolver sistemas inteligentes. Vamos mergulhar em algoritmos avançados, redes neurais e técnicas de aprendizado de máquina, e ver como eles são usados em robótica, visão por computador e outras áreas da inteligência artificial. Vamos começar essa jornada juntos para descobrir como a inteligência artificial está mudando o mundo ao nosso redor.<br>
+
+#### Você aprendera coisas como:
+* Introdução à Inteligência Artificial e aos seus campos de aplicação
+* Técnicas de Treinamento de Redes Neurais
+* Aplicações de IA na robótica
+* Fundamentos de Visão Computacional
 
 <hr></hr>
 
 ## Objetivos
-Esse repositório foi criado pensado em ir do nível mais básico ao nível avançado em Robótica/IA realizando pequenos projetos. Irei trilhar seu caminho igual a um roadmap.
-Será demostrada diversas curiosidades no mundo da Robótica/AI, desde seu inicio até o momento atual.  Vamos conhecer as biblitecas de Machine Learning e se apronfundar nos mecanismos da Inteligencia Artificial. No fim serão abordados assuntos polêmicos sobre Robótica e AI para se pensar.
-
-> Este curso ira contemplar diversos assuntos que englobam a mecânica, elétrica, eletrônica, programação e a automação. Pelo motivo de que a Robótica e a Inteligência Artificial são ramos dessas engenharias. Todo o conteúdo gratuito será repassado o mais simples possível para o entendimento do aluno, os assuntos serão explorados de forma superficial, no entanto, suficientes para o desenvolvimento e construção dos projetos finais de cada módulo.<br>
+Esse curso gratuito ira desenvolver suas habilidades para que consiga desenvolver aplicações em IA e aplicar em robótica. Vamos abordar desde a história da robótica e da inteligência artificial, como também vamos explorar como elas evoluíram ao longo dos anos e como elas estão sendo utilizadas hoje em dia. Além disso, você vai aprender sobre as principais bibliotecas de Machine Learning, como o Tensorflow, Pytorch, entre outras e como elas são utilizadas para desenvolver aplicações de inteligência artificial. Vamos nos aprofundar nos mecanismos da inteligência artificial, incluindo algoritmos de aprendizado de máquina, redes neurais e deep learning. Por fim, também discutiremos assuntos polêmicos e éticos relacionados a robótica e inteligência artificial, para que você possa pensar sobre como essas tecnologias podem ser utilizadas de maneira ética e responsável.
 
 <hr></hr>
 
