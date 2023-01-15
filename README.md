@@ -6,7 +6,7 @@
 <hr></hr>
 
 ## Ementa
-O curso ira te oferecer uma visão sistemática abrangente, uma ótima introdução ao mundo da Robótica e Inteligência Artificial, tecnologias empregadas no desenvolvimento da inteligência artificial e o amadurecimento no mundo da engenharia.<br>
+Seja bem-vindo ao nosso curso sobre Inteligência Artificial! Neste curso, você terá a oportunidade de explorar as últimas tendências e técnicas em Visão Computacional, Machine Learning, Deep Learning e Robótica. Aprenderá a aplicar esses conceitos para solucionar problemas reais e desenvolver sistemas inteligentes. Vamos mergulhar em algoritmos avançados, redes neurais e técnicas de aprendizado de máquina, e ver como eles são usados ​​em robótica, visão por computador e outras áreas da inteligência artificial. Vamos começar essa jornada juntos para descobrir como a inteligência artificial está mudando o mundo ao nosso redor.<br>
 
 <hr></hr>
 
