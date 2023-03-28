@@ -1,4 +1,4 @@
-INTRODUÇÃO AO MUNDO DA TECNOLOGIA
+# INTRODUÇÃO AO MUNDO DA TECNOLOGIA
 
 Você já se perguntou como funciona o seu celular, o seu computador ou a internet? Você tem curiosidade em saber como são criados os aplicativos, os jogos e os sites que você usa todos os dias? Você gostaria de aprender a programar, a criar seus próprios projetos e a resolver problemas usando a tecnologia?
 
